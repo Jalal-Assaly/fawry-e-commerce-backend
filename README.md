@@ -1,4 +1,4 @@
-# E-Commerce-Fawry-Internship
+# Fawry Internship - E-Commerce Project
 
 ## Project Overview
 This E-Commerce platform is designed as a **microservices-based** architecture, built with the **Spring Framework**. The application is modularized into distinct services, each responsible for a specific domain function, ensuring scalability, flexibility, and maintainability. This structure allows for individual services to be developed, deployed, and scaled independently.
